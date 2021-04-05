@@ -2,7 +2,7 @@ title: hoshihoshi
 description: my memo
 remote_theme: riggraz/no-style-please
 url: https://zixing8284.github.io
-baseurl: "/blog"
+baseurl: "/thoughts"
 
 theme_config:
   appearance: "light"
