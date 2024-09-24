@@ -1,0 +1,8 @@
+entries:
+  - title: me
+    entries:
+      - title: record my thoughts here
+      - title: theme no-style-please
+
+  - title: thoughts
+    post_list: true

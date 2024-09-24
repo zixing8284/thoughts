@@ -1,0 +1,11 @@
+title: hoshihoshi
+description: my memo
+remote_theme: zixing8284/no-style-please
+url: https://zixing8284.github.io
+baseurl: "/thoughts"
+
+theme_config:
+  appearance: "light"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: true
